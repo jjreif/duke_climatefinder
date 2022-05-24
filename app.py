@@ -1,7 +1,6 @@
 import pandas as pd
 import streamlit as st
 
-schools = []
 
 @st.cache
 def convert_df(df):
